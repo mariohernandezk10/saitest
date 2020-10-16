@@ -12,3 +12,7 @@ a {
 a:hover {
     color: red;
 }
+
+section {
+    background-color: #f5f5f5;
+}
